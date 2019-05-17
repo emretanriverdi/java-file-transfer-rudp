@@ -6,6 +6,5 @@
   <img src="https://user-images.githubusercontent.com/23009545/57944008-4bb90400-78de-11e9-8851-556449510e78.png" width="270" />
 </p>
 
-
-<br>
-Project partner: [@asbasaran](https://github.com/asbasaran)
+<br><br>
+Project partner: [@asbasaran](https://github.com/asbasaran/)
