@@ -8,4 +8,4 @@
 
 
 <br>
-Project Partner: [@asbasaran][https://github.com/asbasaran]
+Project partner: [@asbasaran](https://github.com/asbasaran)
